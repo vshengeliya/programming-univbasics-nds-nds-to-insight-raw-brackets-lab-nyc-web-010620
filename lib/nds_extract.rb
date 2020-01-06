@@ -1,4 +1,3 @@
-Learn more or give us feedback
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 require 'directors_database'
 
